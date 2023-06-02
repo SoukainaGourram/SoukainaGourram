@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soukaina Gourram
 
-- 👀 I’m interested in Software Engineer
+-  Software Engineer
 
 - 📫 How to reach me gourramsoukaina1@gmail.com
 
