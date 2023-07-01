@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Soukaina Gourram
+👋 Hi, I’m Soukaina Gourram
 
--  Software Engineer
+           Software Engineer
 
-- 📫 How to reach me gourramsoukaina1@gmail.com
+- 📫 How to reach me : gourramsoukaina1@gmail.com
 
 <!---
 SoukainaGourram/SoukainaGourram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
