@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soukainagourram&label=Profile%20views&color=0e75b6&style=flat" alt="soukainagourram" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gourram-soukaina/](https://www.linkedin.com/in/gourram-soukaina/)
 
 - 📫 How to reach me **https://gourramsoukaina1@gmail.com**
 
